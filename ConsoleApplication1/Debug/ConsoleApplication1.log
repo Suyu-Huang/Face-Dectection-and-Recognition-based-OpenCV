@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\c++ practice\opencv_practice\consoleapplication1\consoleapplication1\main.cpp(20): error C3861: 'setupDetectors': identifier not found
+d:\c++ practice\opencv_practice\consoleapplication1\consoleapplication1\main.cpp(30): error C3867: 'cv::CascadeClassifier::empty': non-standard syntax; use '&' to create a pointer to member
+d:\c++ practice\opencv_practice\consoleapplication1\consoleapplication1\main.cpp(45): error C3867: 'cv::CascadeClassifier::empty': non-standard syntax; use '&' to create a pointer to member
+d:\c++ practice\opencv_practice\consoleapplication1\consoleapplication1\main.cpp(57): error C2276: '!': illegal operation on bound member function expression

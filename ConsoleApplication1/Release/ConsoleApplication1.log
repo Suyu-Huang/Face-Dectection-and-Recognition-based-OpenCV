@@ -1,0 +1,14 @@
+﻿  Main.cpp
+Main.cpp(54): warning C4101: 'e': unreferenced local variable
+Main.cpp(65): warning C4101: 'e': unreferenced local variable
+Main.cpp(79): warning C4101: 'e': unreferenced local variable
+Main.cpp(128): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main.cpp(129): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main.cpp(154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 406 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> D:\C++ Practice\opencv_practice\ConsoleApplication1\Release\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\C++ Practice\opencv_practice\ConsoleApplication1\Release\ConsoleApplication1.pdb (Full PDB)
